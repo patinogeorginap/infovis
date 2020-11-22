@@ -14,6 +14,7 @@
 * [Comunas Tableau](https://patinogeorginap.github.io/infovis/Comunas.twb)
 * [Trabajo en Lyra, Pob argentina por provincia](https://patinogeorginap.github.io/infovis/Lyra_Arg.json)
 * [Makeovermonday 2020 w46](https://patinogeorginap.github.io/infovis/mom_w46.html)
+* [Makeovermoday 2020 w46 spline](https://patinogeorginap.github.io/infovis/momw46_spline.svg)
 * [Treemap mom_w46](https://patinogeorginap.github.io/infovis/mom_w46_treemap.html)
 
 
