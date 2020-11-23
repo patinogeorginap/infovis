@@ -17,7 +17,8 @@
 * [Makeovermoday 2020 w46 spline](https://patinogeorginap.github.io/infovis/momw46_spline.svg)
 * [Makeovermonday 2020 w46 BumpChart](https://patinogeorginap.github.io/infovis/mom_w46_bumpchart.html)
 * [Makeovermonday 2020 w46 StreamGraph](https://patinogeorginap.github.io/infovis/mom_w46_StreamGraph.html)
-* [Treemap mom_w46](https://patinogeorginap.github.io/infovis/mom_w46_treemap.html)
+* [Makeovermonday 2020 w46 Treemap](https://patinogeorginap.github.io/infovis/mom_w46_treemap.html)
+* [Makeovermonday 2020 w46 Circles Packing](https://patinogeorginap.github.io/infovis/mom_w46_CirclesPacking.html)
 
 
 
