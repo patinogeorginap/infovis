@@ -21,7 +21,7 @@
 * [Makeovermonday 2020 w46 Circles Packing](https://patinogeorginap.github.io/infovis/mom_w46_CirclesPacking.html)
 * [Makeovermonday 2020 w47 Scatterplot with presidents and party](https://patinogeorginap.github.io/infovis/mom_w47_scatterplot_pres%26party.html)
 * [Makeovermonday 2020 w47 dual axis](https://patinogeorginap.github.io/infovis/mom_w47_dualaxis.html)
-* [Vegalite](https://patinogeorginap.github.io/infovis/vegalite.html)
+* [Vegalite](https://patinogeorginap.github.io/infovis/vega_lite.html)
 
 
 
