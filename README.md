@@ -24,6 +24,6 @@
 * [Vegalite](https://patinogeorginap.github.io/infovis/visualization.png)
 
 ## Trabajo Final
-* []()
-* []()
+* [Gastos en Tableau]()
+* [Gastos en Flourish](https://patinogeorginap.github.io/infovis/Gastos_flourish.html)
 
