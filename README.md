@@ -29,3 +29,4 @@
 * [Gastos en Flourish](https://patinogeorginap.github.io/infovis/Gastos_flourish.html)
 * [Gastos en mapa Flourish](https://patinogeorginap.github.io/infovis/Gastos_flourish_mapa.html)
 
+
