@@ -27,6 +27,7 @@
 * [Gastos en Tableau](https://patinogeorginap.github.io/infovis/Gastos_tableau.html)
 * [Gastos y mapa en Tableau](https://patinogeorginap.github.io/infovis/Gasto_mapa_tableau.html)
 * [Movimientos en tableau](https://patinogeorginap.github.io/infovis/Movimientos_tableau.html)
+* [Movimientos e inflación en tableau](https://patinogeorginap.github.io/infovis/Mov_inf_tableau.html)
 * [Gastos en Flourish](https://patinogeorginap.github.io/infovis/Gastos_flourish.html)
 * [Gastos en mapa Flourish](https://patinogeorginap.github.io/infovis/Gastos_flourish_mapa.html)
 
